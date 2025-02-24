@@ -64,20 +64,20 @@ if (!$conn) {
 🔹 Users can view election results after voting.  
 
 ## **Security Features**  
-🔒 **Password hashing** for secure authentication.  
-🔒 **SQL injection protection** to prevent hacking attempts.  
-🔒 **Secure session management** for safe user access.  
+ **Password hashing** for secure authentication.  
+ **SQL injection protection** to prevent hacking attempts.  
+ **Secure session management** for safe user access.  
 
 ## **Future Enhancements**  
-🚀 OTP-based authentication for voters.  
-🚀 Integration of blockchain for enhanced security.  
-🚀 Email notifications for voter confirmation.  
+ OTP-based authentication for voters.  
+ Integration of blockchain for enhanced security.  
+ Email notifications for voter confirmation.  
 
 ## **License**  
-📜 This project is **open-source** and free to use under the **MIT License**.  
+ This project is **open-source** and free to use under the **MIT License**.  
 
 ## **Contributing**  
-💡 If you find any issues or want to improve the system, feel free to **fork the repository** and submit a **pull request**.  
+If you find any issues or want to improve the system, feel free to **fork the repository** and submit a **pull request**.  
 
 ## **Contact**  
 📧 **Email**: [nileshghavate11@gmail.com](mailto:nileshghavate11@gmail.com)  
